@@ -32,11 +32,10 @@ Hệ thống được triển khai theo hướng kết hợp giữa **các kỹ 
   - Sinh cảnh báo an toàn
     
 ## Cấu trúc repository
-├── CODE/ # Mã nguồn của dự án
-├── REPORT/ # Báo cáo cuối cùng (PDF)
-└── README.md
+- CODE/ # Mã nguồn của dự án
+- REPORT/ # Báo cáo cuối cùng (PDF)
+- README.md
 
 ---
 
 
-## Cấu trúc repository
