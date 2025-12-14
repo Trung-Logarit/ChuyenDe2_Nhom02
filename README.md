@@ -1,7 +1,6 @@
 # ChuyenDe2_Nhom02 
 
-## Môn học
-**Chuyên đề 2** (Lecturer: TS. Nguyễn Văn Hiếu)
+## Môn học: Chuyên đề 2 (GVHD: TS. Nguyễn Văn Hiếu)
 
 ## Thành viên nhóm 2
 | Họ và tên | Lớp | MSSV |
