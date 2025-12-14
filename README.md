@@ -43,7 +43,11 @@ ChuyenDe2_Nhom02/
 │   └── ChuyenDe2_Nhom02.pdf
 └── README.md             # Tệp mô tả tổng quan repository
 
-
+## Video Demo
+- **UFLDv2 nhận dạng làn đường**: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/IgDkqveL0UWjQKGcZbx5Cw84Af4msyS_2QDg_X5APbPIVgQ?e=YZjI2X
+- **Xử lý ảnh truyền thống nhận dạng làn đường**:
+- **YOLOv8 phát hiện phương tiện và cảnh báo**:
+- **Full Pipeline**:
 
 
 
