@@ -32,7 +32,6 @@ Hệ thống được triển khai theo hướng kết hợp giữa **các kỹ 
   - Sinh cảnh báo an toàn
     
 ## Cấu trúc repository
-```text
 ChuyenDe2_Nhom02/
 ├── CODE/                 # Mã nguồn của dự án
 │   ├── UFLDv2/           # Mô-đun nhận dạng làn đường bằng học sâu (UFLDv2)
