@@ -32,9 +32,16 @@ Hệ thống được triển khai theo hướng kết hợp giữa **các kỹ 
   - Sinh cảnh báo an toàn
     
 ## Cấu trúc repository
-- CODE/ # Mã nguồn của dự án
-- REPORT/ # Báo cáo cuối cùng (PDF)
-- README.md
+ChuyenDe2_Nhom02/
+├── CODE/                 # Mã nguồn của dự án
+│   ├── UFLDv2/           # Mô-đun nhận dạng làn đường bằng học sâu (UFLDv2)
+│   ├── YOLOv8/           # Mô-đun phát hiện phương tiện bằng YOLOv8
+│   ├── XLA_Traditional/  # Mô-đun xử lý ảnh truyền thống (baseline)
+│   └── .gitkeep
+├── REPORT/               # Báo cáo cuối cùng của đề tài
+│   └── ChuyenDe2_Nhom02.pdf
+└── README.md             # Tệp mô tả tổng quan repository
+
 
 ---
 
