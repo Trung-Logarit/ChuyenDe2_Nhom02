@@ -38,13 +38,12 @@ ChuyenDe2_Nhom02/
 │   ├── UFLDv2/           # Mô-đun nhận dạng làn đường bằng học sâu (UFLDv2)
 │   ├── YOLOv8/           # Mô-đun phát hiện phương tiện bằng YOLOv8
 │   ├── XLA_Traditional/  # Mô-đun xử lý ảnh truyền thống (baseline)
-│   └── .gitkeep
+│  
 ├── REPORT/               # Báo cáo cuối cùng của đề tài
 │   └── ChuyenDe2_Nhom02.pdf
 └── README.md             # Tệp mô tả tổng quan repository
 
 
 
----
 
 
