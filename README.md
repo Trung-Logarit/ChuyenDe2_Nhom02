@@ -33,9 +33,9 @@ Hệ thống được triển khai theo hướng kết hợp giữa **các kỹ 
     
 ## Video Demo
 - **UFLDv2 nhận dạng làn đường**: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/IgDkqveL0UWjQKGcZbx5Cw84Af4msyS_2QDg_X5APbPIVgQ?e=YZjI2X
-- **Xử lý ảnh truyền thống nhận dạng làn đường**:
-- **YOLOv8 phát hiện phương tiện và cảnh báo**:
-- **Full Pipeline**:
+- **Xử lý ảnh truyền thống nhận dạng làn đường**: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/IgBG2TxmTMEvQabMVzDGfeJYAduPHsRzj2JX0IqNrJJkp_s?e=5eFqt2
+- **YOLOv8 phát hiện phương tiện và cảnh báo**: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/IgDwIeAFtBnRT6-QjbITvL9KAdrtQlJEftf7kybuM6nGY14?e=Xm8id5
+- **Full Pipeline**: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/IgDsufSDutQ1TK_i-xtMu0NOAQ9LS5W6Q-sb0diV_7pUk9M?e=NqeM1f
     
 ## Cấu trúc repository
 ```text
